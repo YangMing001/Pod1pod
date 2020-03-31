@@ -1,0 +1,22 @@
+{
+  "name": "Pod1pod",
+  "version": "0.1.0",
+  "summary": "Pod1pod Pod1pod PPod1pod.",
+  "description": "Pod1pod Pod1pod Pod1pod Pod1pod Pod1pod Pod1pod Pod1pod Pod1pod Pod1pod Pod1pod Pod1pod Pod1pod Pod1pod Pod1pod Pod1pod Pod1pod Pod1pod Pod1pod Pod1pod Pod1pod Pod1pod Pod1pod Pod1pod Pod1pod Pod1pod Pod1pod Pod1pod Pod1pod. test first pod demo",
+  "homepage": "https://github.com/YangMing001/Pod1pod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "13120690401@163.com": "13120690401@163.com"
+  },
+  "source": {
+    "git": "https://github.com/YangMing001/Pod1pod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Pod1pod/Classes/**/*"
+}
